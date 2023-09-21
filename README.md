@@ -68,7 +68,7 @@
   ## Author Contact
   Contact the author with any questions!<br>
   Github link: [imbingz](https://github.com/imbingz)<br>
-  Email: contact.bingz@gmail.com
+  Email: prettymohlabe@gmail.com
 
   ## License
   This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.<br />
