@@ -27,7 +27,7 @@
 
   ##  Project Links
    ##### Deployed Link on Heroku: https://warm-forest-12403.herokuapp.com/
-  ##### GitHub Repo link: https://github.com/imbingz/MERN-stack-ecommerce
+  ##### GitHub Repo link: https://github.com/9409010617086
 
   ## Screenshots-Demo
   <kbd>![screenshot-demo1](./client/public/demos/demo-1.gif)</kbd>
