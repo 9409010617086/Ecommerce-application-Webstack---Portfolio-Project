@@ -60,13 +60,13 @@
 
   ## Author Contact
   Contact the author with any questions!<br>
-  Github link: [imbingz](https://github.com/imbingz)<br>
+  Github link: [prettymohlabe](https://github.com/9409010617086))<br>
   Email: prettymohlabe@gmail.com
 
   ## License
   This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.<br />
 
-  Copyright © 2020 [BING Z](https://imbingz.github.io/Responsive-Website-Portfolio/)
+  Copyright © 2023 [pretty](https://pretty.github.io/Responsive-Website-Portfolio/)
 
   <hr>
   <p align='center'><i>
