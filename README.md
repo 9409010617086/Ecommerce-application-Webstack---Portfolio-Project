@@ -23,7 +23,7 @@
   ##### GitHub Repo link: https://github.com/9409010617086
 
   ## Screenshots-Demo
-  <kbd>![screenshot-demo1](./client/public/demos/demo.gif)</kbd>
+  <kbd>![screenshot-demo1](./client/public/demos/PROJECT DEMO.mp4)</kbd>
   <kbd>![screenshot-demo2](./client/public/demos/demo-2.gif)</kbd>
   ## Project Objective
   * To build a responsive fully functional Ecommerce application that allows the sellers to save, retrieve and delete data like products, orders and buyers/users and the buyers to select items, save shopping carts and complete payment. 
